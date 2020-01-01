@@ -1,6 +1,6 @@
-FROM alpine:3.10
+FROM alpine:3.11
 
-MAINTAINER Dmitry Lisin <dlisin@kublr.com>
+MAINTAINER Kublr Team <contact@kublr.com>
 
 RUN apk add --no-cache \
     ca-certificates \
