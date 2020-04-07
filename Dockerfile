@@ -5,6 +5,7 @@ MAINTAINER Kublr Team <contact@kublr.com>
 RUN apk add --no-cache \
     ca-certificates \
     openssl \
+    ethtool \
     curl \
     jq
 
